@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FrenchGuys&label=Profile%20views&color=0e75b6&style=flat" alt="FrenchGuys" /> </p>
 
 
-- 🔭 I’m currently working on **Volt**
-- 🌱 I’m currently learning **C++**
+- 🔭 I’m currently working on **VoltRP & VoltMC**
+- 
+- 🌱 I’m currently learning **C++ & Lua**
 
 
 - 👨‍💻 All of my projects are available at **https://notyet.com**
