@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on **VoltRP & VoltMC**
-- 
 - 🌱 I’m currently learning **C++ & Lua**
 
 
